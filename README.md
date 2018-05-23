@@ -33,3 +33,6 @@ There is avaliable simple parser just to test this structures in run. **To compi
   * `successor k` - finds and prints succesor of the k element.
   * `find k` - if k is in the structure output will be 1, otherwise 0.
   
+  <br>
+  
+  ![](https://image.ibb.co/nqK9RT/ds1.png) ![](https://image.ibb.co/f2aYmT/ds2.png)
