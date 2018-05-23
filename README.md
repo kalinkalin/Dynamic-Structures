@@ -36,3 +36,5 @@ There is avaliable simple parser just to test this structures in run. **To compi
   <br>
   
   ![](https://image.ibb.co/nqK9RT/ds1.png) ![](https://image.ibb.co/f2aYmT/ds2.png)
+
+  *programme usage in Ubuntu 16.04 TTY*
