@@ -1,6 +1,6 @@
 ## Dynamic structures
 
-Implementation of RBT, BST and HashTable. Writting this algorithms i used Cormen's "Introduction to Algorithms", so if you full descritption of this structures and methods you can read about it there.
+Implementation of RBT, BST and HashTable. Writting this algorithms i used Cormen's "Introduction to Algorithms", so in need of full descritption of this structures and methods you can read about it there.
 
 
 ### USAGE
@@ -17,3 +17,13 @@ There is avaliable simple parser just to test this structures in run. **To compi
    * `./main --type bst `- Binary Search Tree
    * `./main --type rbt `- Red-Black Tree
    * `./main --type hmap `- Hash Table
+   
+ <br>
+   
+ **2.) Handling command line and avaliable operations**
+
+  For all type of structures there are the same possible commands, if there is no such operation in given structure the output         would be an empty line, for example `inorder` in Hash Table. Avaliable commands in TTY, during programme run:
+  
+  * `insert k` - insertion of k string into chosen structure. From borders of a string non alnum chars will be removed before insertion.
+  * `delete k` - deletion of k string from chosen structure. If there is more than one occurence,
+  *
