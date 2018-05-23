@@ -291,7 +291,7 @@ RBTree::Node* RBTree::findNode(string value){
   return node;
 }
 bool RBTree::find(string value){
-  if(findNode(value) == NULL){
+  if(findNode(value) == NIL){
     return false;
   }
   else{
